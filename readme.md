@@ -2,7 +2,7 @@
 <img src="https://github.com/Nocturnal-OFC/Nocturnal-OFC/blob/main/GIF-1.gif" />
 </p>
 
-<h3><b><i>INFO_CELL</i></b><h3>
+<h2><b><i>#INFO_CELL</i></b></h2>
 Con INFO-CELL obtendrás información de un número telefónico 
 
 <p align="center"><i>Instalar INFO_CELL</i></p>
